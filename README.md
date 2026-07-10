@@ -1,6 +1,6 @@
 # Spring Boot Blog API
 
-A RESTful Blog API built with **Spring Boot**, **Spring Security**, **JWT Authentication**, and **MySQL**. This project represents my hands-on journey of learning backend development by implementing core Spring Boot concepts through a complete blog management application.
+A RESTful Blog API built with **Spring Boot**, **Spring Security**, **JWT Authentication**, and **Postgres**. This project represents my hands-on journey of learning backend development by implementing core Spring Boot concepts through a complete blog management application.
 
 Unlike small isolated examples, this project combines authentication, authorization, database integration, layered architecture, and REST API development into a single application.
 
